@@ -1,0 +1,6 @@
+framework module KZCityPicker {
+  umbrella header "KZCityPicker-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'KZCityPicker_Example' do
+  pod 'KZCityPicker', :path => '../'
+
+  target 'KZCityPicker_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

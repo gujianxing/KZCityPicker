@@ -1,0 +1,16 @@
+PODS:
+  - KZCityPicker (0.1.0)
+
+DEPENDENCIES:
+  - KZCityPicker (from `../`)
+
+EXTERNAL SOURCES:
+  KZCityPicker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KZCityPicker: 7ef72d568f95a5135c59e7ef9c33b11699beccb9
+
+PODFILE CHECKSUM: 2b63f599919ac1f4badb86cdd9570205076440f1
+
+COCOAPODS: 1.9.1
